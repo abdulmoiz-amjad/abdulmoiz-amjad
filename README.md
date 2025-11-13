@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Moiz
 
 🎓 **B.Sc. in Data Science** | 💡 **AI & Data Engineering Enthusiast**  
-📍 Lahore, Pakistan | 📧 [abdulmoizamjad161@gmail.com](mailto:abdulmoizamjad161@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulmoiz-amjad-207193248/)
+📍 Lahore, Pakistan | 📧 [abdulmoizamjad161@gmail.com](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdulmoizamjad161@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulmoiz-amjad-207193248/)
 
 ---
 
