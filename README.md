@@ -65,6 +65,3 @@ My work lies at the intersection of **Artificial Intelligence, Data Engineering,
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdulmoizamjad161@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-grey?logo=github&logoColor=white)](https://github.com/abdulmoiz-amjad?tab=repositories)
 
----
-
-⭐️ *"Data tells stories — I engineer the systems that let them speak."*
