@@ -2,7 +2,7 @@
 
 🎓 **B.Sc. in Data Science** | 💡 **AI & Data Engineering Enthusiast**  
 📍 Dammam, Saudi Arabia | 📧 [abdulmoizamjad161@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abdulmoizamjad161@gmail.com)
- | [LinkedIn](https://www.linkedin.com/in/abdulmoiz-amjad-207193248/)
+ | [LinkedIn](https://www.linkedin.com/in/abdulmoiz-amjad/)
 
 ---
 
